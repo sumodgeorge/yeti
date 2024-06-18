@@ -11,7 +11,7 @@
     "highlight.js": "^10.4.1",
     "inline-attachment": "^2.0.3",
     "jquery": "^3.5.0",
-    "jquery-ui-dist": "^1.12.1",
+    "jquery-ui-dist": "^1.13.2",
     "marked": "^0.3.18",
     "pdfjs-dist-viewer-min": "^1.8.188",
     "simplemde": "^1.11.2",
